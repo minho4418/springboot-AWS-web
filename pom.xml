@@ -55,7 +55,7 @@
 	
 
 	<build>
-		<finalName>bamdule</finalName>
+		<finalName>bamdule</finalName>   # war 파일이름 설정
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
