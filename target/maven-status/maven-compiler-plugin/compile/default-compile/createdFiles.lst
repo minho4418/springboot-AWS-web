@@ -1,0 +1,3 @@
+com\bamdule\ServletInitializer.class
+com\bamdule\BamduleApplication.class
+com\bamdule\controller\HomeController.class
