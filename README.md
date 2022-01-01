@@ -3,7 +3,7 @@
 
 # 실행 방법
 
-### 1. Springboot를 활용하고 html로 웹 생성해주기
+#### 1. Springboot를 활용하고 html로 웹 생성해주기
 ### 2. 위에서 만든 것을 git push 해준다.
 ### 3. aws서버에 접속해준다.(xshell을 사용함)
 ### 4. Linux기반 서버에서 maven, java, tomcat 설치하고 각각 환경변수를 등록해준다.
